@@ -1,0 +1,21 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Maven build directory
+target/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Java compiled files
+*.class
+
+# Build artifacts
+*.jar
+
